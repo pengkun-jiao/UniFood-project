@@ -6,8 +6,6 @@ Project of [RoDE: Linear Rectified Mixture of Diverse Experts for Food Large Mul
 
 Uni-Food is a comprehensive and unified food dataset designed to advance research in food-related vision-language tasks, particularly in areas requiring detailed nutritional analysis. 
 
-### Download dataset
-
 
 ### Dataset statistic
 
@@ -18,6 +16,9 @@ Uni-Food is a comprehensive and unified food dataset designed to advance researc
 **Ingredient and Nutrition Statistics in Uni-Food**
 <br>
 <img src="https://github.com/pengkun-jiao/UniFood-project/blob/master/static/images/nutrition_infor.png?raw=true" alt="[Ingredient and nutrition information of UniFood" width="1000">
+
+### Download dataset
+For access to the dataset, please send an email to Mr. Jiao at pkjiao23@mfudan.edu.cn.
 
 ## Website License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">
