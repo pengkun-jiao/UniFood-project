@@ -3,8 +3,10 @@
 Project of [RoDE: Linear Rectified Mixture of Diverse Experts for Food Large Multi-Modal Models](https://arxiv.org/pdf/2407.12730)
 
 ## UniFood Dataset
-Release soon
 
+Uni-Food is a comprehensive and unified food dataset designed to advance research in food-related vision-language tasks, particularly in areas requiring detailed nutritional analysis. 
+
+### Download dataset
 
 ![Statistic information of UniFood](https://github.com/pengkun-jiao/UniFood-project/blob/master/static/images/cate_statistics.png?raw=true){{ width=500px }}
 
