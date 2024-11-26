@@ -12,9 +12,11 @@ Uni-Food is a comprehensive and unified food dataset designed to advance researc
 ### Dataset statistic
 
 **Distribution of Food Categories in a Pie Chart**
+<br>
 <img src="https://github.com/pengkun-jiao/UniFood-project/blob/master/static/images/cate_statistics.png?raw=true" alt="Statistic information of UniFood" width="400">
 
 **Ingredient and Nutrition Statistics in Uni-Food**
+<br>
 <img src="https://github.com/pengkun-jiao/UniFood-project/blob/master/static/images/nutrition_infor.png?raw=true" alt="[Ingredient and nutrition information of UniFood" width="1000">
 
 ## Website License
