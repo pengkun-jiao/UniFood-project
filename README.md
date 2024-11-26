@@ -5,6 +5,12 @@ Project of [RoDE: Linear Rectified Mixture of Diverse Experts for Food Large Mul
 ## UniFood Dataset
 Release soon
 
+
+![Statistic information of UniFood](https://github.com/pengkun-jiao/UniFood-project/blob/master/static/images/cate_statistics.png?raw=true)
+
+
+![Ingredient and nutrition information of UniFood](https://github.com/pengkun-jiao/UniFood-project/blob/master/static/images/nutrition_infor.png?raw=true)
+
 ## Website License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">
   <img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc/4.0/88x31.png" />
