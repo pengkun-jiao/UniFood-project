@@ -8,8 +8,10 @@ Uni-Food is a comprehensive and unified food dataset designed to advance researc
 
 ### Download dataset
 
-![Statistic information of UniFood](https://github.com/pengkun-jiao/UniFood-project/blob/master/static/images/cate_statistics.png?raw=true){ width=500px }
+![Statistic information of UniFood](){ width=500px }
 
+
+<img src="https://github.com/pengkun-jiao/UniFood-project/blob/master/static/images/cate_statistics.png?raw=true" alt="Statistic information of UniFood" width="500">
 
 ![Ingredient and nutrition information of UniFood](https://github.com/pengkun-jiao/UniFood-project/blob/master/static/images/nutrition_infor.png?raw=true)
 
