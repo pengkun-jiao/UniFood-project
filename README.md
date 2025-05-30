@@ -5,17 +5,17 @@ Project of [RoDE: Linear Rectified Mixture of Diverse Experts for Food Large Mul
 ## UniFood Dataset
 
 Uni-Food is a comprehensive and unified food dataset designed to advance research in food-related vision-language tasks, particularly in areas requiring detailed nutritional analysis. 
-
+<img src="[https://github.com/pengkun-jiao/UniFood-project/blob/master/static/images/cate_statistics.png](https://github.com/pengkun-jiao/UniFood-project/blob/master/static/images/unifoodplus/food_type_pie_chart.png)
 
 ### Dataset statistic
 
 **Distribution of Food Categories in a Pie Chart**
 <br>
-<img src="https://github.com/pengkun-jiao/UniFood-project/blob/master/static/images/cate_statistics.png?raw=true" alt="Statistic information of UniFood" width="400">
+<img src="[[https://github.com/pengkun-jiao/UniFood-project/blob/master/static/images/cate_statistics.png](https://github.com/pengkun-jiao/UniFood-project/blob/master/static/images/unifoodplus/food_type_pie_chart.png)?raw=true" alt="Statistic information of UniFood" width="400">
 
 **Ingredient and Nutrition Statistics in Uni-Food**
 <br>
-<img src="https://github.com/pengkun-jiao/UniFood-project/blob/master/static/images/nutrition_infor.png?raw=true" alt="[Ingredient and nutrition information of UniFood" width="1000">
+<img src="[[https://github.com/pengkun-jiao/UniFood-project/blob/master/static/images/nutrition_infor.png](https://github.com/pengkun-jiao/UniFood-project/blob/master/static/images/unifoodplus/ingre_distribution.png)?raw=true" alt="[Ingredient and nutrition information of UniFood" width="1000">
 
 
 
