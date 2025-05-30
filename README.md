@@ -12,7 +12,7 @@ UniFood is a comprehensive and unified food dataset designed to advance research
 
 **Distribution of Food Categories in a Pie Chart**
 <br>
-![Food Category Pie Chart](https://raw.githubusercontent.com/pengkun-jiao/UniFood-project/refs/heads/master/static/images/unifoodplus/food_type_pie_chart.png){ width="400" }
+![Food Category Pie Chart](https://raw.githubusercontent.com/pengkun-jiao/UniFood-project/refs/heads/master/static/images/unifoodplus/food_type_pie_chart.png){ width="600" }
 
 **Ingredient and Nutrition Statistics in UniFood**
 <br>
